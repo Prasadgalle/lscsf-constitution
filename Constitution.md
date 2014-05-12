@@ -23,7 +23,7 @@ III. Copyright
     2. Donations from LSCSF
     
 ##II. Document Version
-0.1.0.0 - Monday, 12th May 2014 at 2115h.
+_._._._ - ___day, __th ___ 201_ at ____h.
 
 ##III. Copyright
 Copyright &copy; 2014 Lanka Strong-willed Children’s Support Foundation. All Rights Reserved.
